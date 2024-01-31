@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @loganbecker2
 - 👀 I’m interested in computers, game development, sports, and statistics!
-- 🌱 I’m currently learning C# and Unity for game development!
-- 💞️ I’m looking to collaborate on any fun project!
+- 🌱 I’m currently learning HTML, CSS, and Javascript for web development!
 - 📫 How to reach me - loganbecker034@gmail.com
 
 <!---
