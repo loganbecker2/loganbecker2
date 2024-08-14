@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @loganbecker2
-- 👀 I’m interested in computers, game development, sports, and statistics!
-- 🌱 I’m currently learning HTML, CSS, and Javascript for web development!
-- 📫 How to reach me - loganbecker034@gmail.com
+Hi, I am Logan Becker, I am grinding leetcode.
+
 
 <!---
 loganbecker2/loganbecker2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
