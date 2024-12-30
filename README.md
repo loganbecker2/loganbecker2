@@ -1,4 +1,4 @@
-Hi, I am Logan Becker, I am grinding leetcode.
+Hi, I am Logan.
 
 
 <!---
